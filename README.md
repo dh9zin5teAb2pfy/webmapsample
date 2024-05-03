@@ -1,4 +1,4 @@
-# sd-2024-3-sample
+# https://github.com/satoshi7190/sd-2024-3-sample/
 
 Software Design 2024 年 3 月号 「位置情報エンジニアリングのすすめ」第 8 回のサンプルコード
 
